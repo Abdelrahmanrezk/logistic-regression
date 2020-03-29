@@ -31,17 +31,17 @@
 **some snapshot of different graph and slides and Examples**
 - ploting data
 
-![alt text](images/plot_data_ex2.png "plot_data_ex2")
+![alt text](python_implementation/images/plot_data_ex2.png "plot_data_ex2")
 
 - Sigmoid function
 
-![alt text](images/sigmoid_plot_1.png "sigmoid_plot_1")
+![alt text](python_implementation/images/sigmoid_plot_1.png "sigmoid_plot_1")
 
 - different Cost function plots
 
-![alt text](images/cost_1_func.png "cost_1_func")
+![alt text](python_implementation/images/cost_1_func.png "cost_1_func")
 
-![alt text](images/cost_2_func.png "cost_2_func")
+![alt text](python_implementation/images/cost_2_func.png "cost_2_func")
 
 
  
