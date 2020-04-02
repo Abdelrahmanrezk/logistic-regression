@@ -17,10 +17,11 @@
 - Hello Logistic Regression
 - python code for Binary Classification with Andrew Ng Course
 - Manual Logistic Regression Task from ex2 of week3 Ml By Andrew Ng in python.
+- Sklearn Logistic Regression Task from ex2 of week3 Ml By Andrew Ng in python.
+- Tensorflow Logistic Regression Task from ex2 of week3 Ml By Andrew Ng in python.
+- Tensorflow clothes Image classifcation
+- Tensorflow handwriting numbers Image classifcation
 
-- The same Task but using Sklearn
-- The same Task but using Tensorflow
-- Udacity boston_housing
 
 **Different Graphs that help get more intuition**
 
